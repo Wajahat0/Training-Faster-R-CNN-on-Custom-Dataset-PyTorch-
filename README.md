@@ -9,9 +9,10 @@ This repository provides a complete pipeline to train [Faster R-CNN](https://arx
 
 - ✅ Faster R-CNN with ResNet-50 + FPN backbone (TorchVision)
 - 🧾 COCO-format dataset support
-- 🧪 Albumentations-based augmentations
+- 🧪 Bounding Box Awaer Data Augmentation
 - 📈 Training visualization
 - 💾 Checkpoint saving
+- >> Evolution  
 
 ---
 
